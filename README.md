@@ -1,5 +1,27 @@
-# About Me:
-As a robotics enthusiast pursuing a Master's degree at Northeastern University, I bring a unique blend of childhood inspiration and professional expertise. My journey began with a fascination for Marvel's Iron Man, which sparked a lifelong interest in robotics and transformative technology.<br><br>My academic background in Electronics and Communication provided a solid foundation, allowing me to delve into microcontroller programming and hardware manipulation. This hands-on experience, coupled with a research internship at a government-based research facility, honed my skills in official documentation, research methodologies, and industry-level influence of government projects. At Northeastern, I'm expanding my horizons in robotics applications by working as a research assistant at PARSES Labs, focusing on soft robotics and flexible sensors.<br><br>I'm always eager to connect with like-minded individuals who share a passion for innovative ideas in robotics. As a student, I am exploring the upcoming tech world including autonomous machines, generative and agentic AI, etc. So whether you're interested in soft robotics, AI, SLAM technology, autonomous vehicles, or any other exciting developments in the field, I'd love to engage in thought-provoking conversations that challenge and inspire us.
+## 👋 Ahilesh Vadivel — Robotics Engineer | Open to Full-Time Roles (May 2026, F-1 OPT)
+
+M.S. Robotics @ Northeastern University (GPA: 4.0) | ECE Concentration
+
+**What I build:** Perception · Planning · Control · Soft Robotics · Autonomous Navigation
+
+---
+
+🔬 **Research (PARSES Labs)**
+- Published co-author: Soft origami robot arm — <5mm positioning accuracy, 680g payload
+- In-hand manipulation with Kresling grippers: 85% success rate across 20+ trials
+
+🤖 **Core Skills**
+- Languages: Python · C++ · MATLAB
+- Frameworks: ROS/ROS2 · PyTorch · OpenCV · MuJoCo · Gymnasium
+- Hardware: Arduino · Raspberry Pi · UR3 · TurtleBot3 · PCB Design
+
+🚀 **Featured Projects**
+- RL-based quadruped locomotion (PPO, MuJoCo) — reward: 1,873
+- Multi-robot SLAM & autonomous navigation (TurtleBot3, ROS2)
+- Neural network safety verification (FBRA) — 100% conclusive verification
+- Vision-based CNC pick-and-place — 99% classification accuracy
+
+📍 Boston, MA | Available: May 2026 | 🔗 [Portfolio](https://vadivel-ahi.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahilesh-vadivel-a385ab205)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
